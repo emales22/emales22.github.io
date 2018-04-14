@@ -1,0 +1,14 @@
+<html>
+       <head>
+       </head>
+<style>
+body {
+    background-image:url(feo.jpg);
+}
+</style>
+       <body>
+                 <p>Hi,te amo mucho mi amor!</p>
+<div id="button"><a href="feo3.html">Click Me!</a></div>
+
+       </body>
+</html>
